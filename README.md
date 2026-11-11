@@ -1,1 +1,0 @@
-# codigo-402-practica
