@@ -8,3 +8,8 @@
 - Verlo: https://stellar.expert/explorer/testnet/tx/31a85031cd8bc3e341ac34167e28754c6935208f7c7e39bd545c5acac2b134aa
 
 
+
+## Mi agente paga solo
+- Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
+- Pago del agente a mi API: 
+- Verlo: https://stellar.expert/explorer/testnet/tx/
